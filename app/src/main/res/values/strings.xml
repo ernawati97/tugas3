@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">HEWAN</string>
+    <string name="katak_merak_kelinci_pedia">katak_merak_kelinci_pedia</string>
+    <string name="tentang">Tentang</string>
+    <string name="notifikasi">(Tekan gambar untuk membuka galeri)</string>
+    <string name="katak">Ras Katak</string>
+    <string name="merak">Ras Merak</string>
+    <string name="kelinci">Ras Kelinci</string>
+    <string name="katak_list_title">Daftar Ras Katak</string>
+    <string name="merak_list_title">Daftar Ras Merak</string>
+    <string name="kelinci_list_title">Daftar Ras Kelinci</string>
+
+    <string name="jenis_hewan">Jenis Hewan</string>
+    <string name="asal">Asal</string>
+    <string name="deskripsi_hewan">Deskripsi hewan</string>
+
+
+    <string name="nama">NAMA</string>
+    <string name="nim">NIM</string>
+    <string name="prodi">PRODI</string>
+    <string name="sistem_informasi">SISTEM INFORMASI</string>
+    <string name="semester">SEMESTER</string>
+
+    <!--    katak-->
+    <string name="amazon_milk_frog_nama">amazon milk frog</string>
+    <string name="amazon_milk_frog_asal">Brazil</string>
+    <string name="amazon_milk_frog_deskripsi">katak ini menjadi katak pohon yang terdapat di hutan amazon, dengan warna kulit yang sangat unik dan cantik.perutnya yang buncit dan warna kulit yang cerah dengan corak yang cantik.</string>
+    <string name="strowberry_nama">strowberry paison dart frog</string>
+    <string name="strowberry_asal">Amerika</string>
+    <string name="strowberry_deskripsi">katak ini tergolong sebagai salah satu katak dengan warna yang indah tetapi katak ini memiliki racun yang mematikan dalam kulitnya.</string>
+    <string name="clown_nama">clown tree  frog</string>
+    <string name="clown_asal">Brazil</string>
+    <string name="clown_deskripsi">katak ini memilik ke unikkan dengan corak warna yang sangat indah perpaduan corak orenge dengan warna kuning cantik.</string>
+    <string name="read_nama">read ayes tree frog</string>
+    <string name="read_asal">Maksiko</string>
+    <string name="read_deskripsi">katak ini menjadi salah satu katak pohon unik dengan mata berwarna merah.</string>
+    <string name="ranitomeya_nama">Siamranitomeya amazonika</string>
+    <string name="ranitomeya_asal">Brazil</string>
+    <string name="ranitomeya_deskripsi">katak ini merupakan salah satu jenis katak yang berwarna cerah dengan corak cantik perpaduan antara biru, hitam, dan kuning.</string>
+
+    <!--    merak-->
+    <string name="kongo_nama">kongo</string>
+    <string name="kongo_asal">Afrika</string>
+    <string name="kongo_deskripsi">Merak kongo adalah salah satu burung dari tiga spesies merak. Spesies ini merupakan satu-satunya burung di marga Afropavo dan merak yang terdapat di Afrika.</string>
+    <string name="biru_nama">biru</string>
+    <string name="biru_asal">india</string>
+    <string name="biru_deskripsi">Merak biru atau Merak india, yang dalam nama ilmiahnya Pavo cristatus adalah salah satu burung dari tiga spesies burung merak.</string>
+    <string name="hijau_nama">hijau</string>
+    <string name="hijau_asal">India</string>
+    <string name="hijau_deskripsi">Merak hijau adalah salah satu burung dari tiga spesies merak. Seperti burung-burung lainnya yang ditemukan di suku Phasianidae, merak hijau mempunyai bulu yang indah.</string>
+    <string name="putih_nama">>putih_nama</string>putih/string>
+    <string name="putih_asal">india</string>
+    <string name="putih_deskripsi">Burung ini dibilang langka karena warnanya yang sangat aneh dan unik karena tidak ada campuran warna seperti jenis burung lainnya. Burung merak putih juga dapat disebut burung merak jenis india.</string>
+
+    <!--    kelinci-->
+    <string name="netherland_nama">netherland_dwarf</string>
+    <string name="netherland_asal">belanda</string>
+    <string name="netherland_deskripsi">kelinci yang berasal dari belanda dengan berat 1,1-2,5 pon,Dwarf belanda adalah satu ras kelinci terkecil.</string>
+    <string name="orictolagus_nama">>orictolagus_nama</string>orictolagus_cuniculus"/string>
+    <string name="orictolagus_asal">eropa</string>
+    <string name="orictolagus_deskripsi">kelinci orictolagus cuniculus juga disebut kelinci eropa atau kelinci domestik adalah satu satunya spesies dalam genusnya.</string>
+    <string name="holland_nama">holland_lop</string>
+    <string name="holland_asal">belanda</string>
+    <string name="holland_deskripsi">kelinci jenis holland lop adalah kelinci yang independent dan playfull.</string>
+    <string name="mini_nama">mini_lop</string>
+    <string name="mini_asal">jerman</string>
+    <string name="mini_deskripsi">Adalah jenis kelinci domestik yang di akui oleh american rabbit association.</string>
+    <string name="raksasa_nama">raksasa</string>
+    <string name="raksasa_asal">belgia</string>
+    <string name="raksasa_deskripsi">jenis kelinci domestik yang sangat besar,biasanya dianggap sebagai jenis terbesar dari spesiesnya.</string>
+    <string name="rex_nama">rex</string>
+    <string name="rex_asal">prancis</string>
+    <string name="rex_deskripsi">kelinci ini mempunyai tubuh yang besar,telinga yang tegak,dan ciri khas yang menjadikan kelinci rex ini di sukai adalah bulunya yang seperti karpet.</string>
+
+
+</resources>

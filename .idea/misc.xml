@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Ernawati2/app/src/main/res/layout/activity_daftar_hewanactivity.xml" value="0.171875" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Ernawati2/app/src/main/res/layout/activity_main.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Ernawati2/app/src/main/res/layout/activity_myprofil.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Ernawati2/app/src/main/res/layout/activity_profil_ras.xml" value="0.13703703703703704" />
+        <entry key="..\:/Users/TOSHIBA/AndroidStudioProjects/Ernawati2/app/src/main/res/layout/activity_daftar_hewan.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/TOSHIBA/AndroidStudioProjects/Ernawati2/app/src/main/res/layout/activity_daftar_hewan_adapter.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/TOSHIBA/AndroidStudioProjects/Ernawati2/app/src/main/res/layout/activity_galeri.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/TOSHIBA/AndroidStudioProjects/Ernawati2/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/TOSHIBA/AndroidStudioProjects/Ernawati2/app/src/main/res/layout/activity_myprofil.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/TOSHIBA/AndroidStudioProjects/Ernawati2/app/src/main/res/layout/activity_profil.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/TOSHIBA/AndroidStudioProjects/Ernawati2/app/src/main/res/layout/activity_profil_ras.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/TOSHIBA/AndroidStudioProjects/Ernawati2/app/src/main/res/layout/row_daftar_hewan.xml" value="0.16893115942028986" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
