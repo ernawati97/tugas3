@@ -1,1 +1,3 @@
-# tugas3
+# UAS
+
+![tampilan](erna.gif)
